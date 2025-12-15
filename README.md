@@ -260,7 +260,3 @@ Los tests están ubicados en `src/__tests__/` y cubren:
 - **express-validator** - Validación de datos
 - **Jest + Supertest** - Testing
 - **dotenv** - Gestión de variables de entorno
-
-## 📄 Licencia
-
-ISC
