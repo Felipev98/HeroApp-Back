@@ -1,0 +1,10 @@
+{
+  "name": "mark-hero-done-lambda",
+  "version": "1.0.0",
+  "description": "AWS Lambda function para marcar un héroe como completado",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^8.20.2"
+  }
+}
+
