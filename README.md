@@ -35,8 +35,6 @@ npm install
 cp .env.example .env
 ```
 
-4. Editar el archivo `.env` con tus credenciales:
-
 ```env
 # Puerto del servidor
 PORT=5001
