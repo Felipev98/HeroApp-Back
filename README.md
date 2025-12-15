@@ -48,7 +48,7 @@ MONGODB_URI=mongodb+srv://usuario:password@cluster.mongodb.net/hero-app?retryWri
 AWS_COGNITO_REGION=us-east-1
 AWS_COGNITO_USER_POOL_ID=us-east-1_XXXXXXXXX
 AWS_COGNITO_CLIENT_ID=tu-client-id
-AWS_COGNITO_CLIENT_SECRET=tu-client-secret  # Opcional, solo si tu App Client tiene secret
+AWS_COGNITO_CLIENT_SECRET=tu-client-secret
 
 # AWS Credentials (para operaciones administrativas de Cognito)
 AWS_ACCESS_KEY_ID=tu-access-key-id
